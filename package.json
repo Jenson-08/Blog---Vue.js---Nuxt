@@ -1,8 +1,8 @@
 {
-  "name": "Tutorial_03",
+  "name": "Tarea 1 Blog",
   "version": "1.0.0",
   "description": "Nuxt starter for CodeSandBox",
-  "author": "Armando Arce",
+  "author": "Jenson Perez",
   "private": true,
   "scripts": {
     "dev": "nuxt dev",
