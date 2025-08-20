@@ -22,4 +22,3 @@ El retorno de Navas no solo es una noticia emocionante para los aficionados, sin
 
 Este posible regreso tiene implicaciones emocionales y deportivas: representa esperanza y liderazgo para los más jóvenes y una base sólida para afrontar con optimismo los retos venideros en la región. La Sele en este 2025 no solo necesita talento, sino veteranía, y Keylor podría ser el eje en ese balance.
 
-(Continúa desarrollando hasta alcanzar al menos 250 palabras, añadiendo análisis, contexto histórico, expectativas y declaraciones adicionales.)
