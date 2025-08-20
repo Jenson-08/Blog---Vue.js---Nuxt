@@ -1,6 +1,11 @@
 export default {
     modules: ['@nuxt/content'],
     components: true,
+    
+    css: [
+    '@/assets/css/custom.css' // Esto aplica globalmente
+    ],
+    
     head: {
       titleTemplate: '%s - Nuxt.js',
       meta: [

@@ -1,0 +1,31 @@
+/* assets/css/custom.css */
+img.responsive-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.custom-image-small {
+  width: 150px;
+  height: auto;
+}
+
+.custom-image-cover {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.nav-link {
+  margin-left: 0; /* reset if needed */
+  color: #333;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+  display: inline-block;
+}
+
+.nav-link:hover {
+  background-color: #5081ea;
+  color: #fff;
+}

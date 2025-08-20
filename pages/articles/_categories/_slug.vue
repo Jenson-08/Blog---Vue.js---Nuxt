@@ -50,7 +50,7 @@ methods: {
    <article class="row">
       <h1>{{ article.title }}</h1>
       <p>{{ article.description }}</p>
-      <img v-if="article.img" :src="article.img" :alt="article.alt" />
+      <img v-if="article.img" :src="article.img" :alt="article.alt" class="responsive-img"/>
       <p>Fecha de creación: {{ formatDate(article.createdAt) }}</p>
       
 
@@ -61,7 +61,7 @@ methods: {
 
       <author v-if="article.author" :author="article.author" />
       <prev-next :prev="prev" :next="next" :category="categories" />
-      <NuxtLink :to="`/articles/${categories}`">← Volver a la categoría</NuxtLink>
+      <NuxtLink :to="`/articles/${categories}`" class="nav-link">← Volver a la categoría</NuxtLink>
 
     </article>
   </div>
