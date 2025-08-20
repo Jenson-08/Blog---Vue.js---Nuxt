@@ -3,8 +3,9 @@
     <h1 class="site-title">The UNA Times</h1>
     <nav class="main-nav">
       <NuxtLink to="/">Home</NuxtLink>
-      <NuxtLink to="/about">About</NuxtLink>
-      <NuxtLink to="/contact">Contact</NuxtLink>
+      <a href="https://www.una.ac.cr/" target="_blank" rel="noopener">About</a>
+      <a href="https://www.linkedin.com/in/jenson-p%C3%A9rez-gonz%C3%A1lez-107094287/" target="_blank" rel="noopener">Contact</a>
+
     </nav>
   </header>
 </template>

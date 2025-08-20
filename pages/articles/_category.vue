@@ -55,14 +55,13 @@ h1 {
   color: #333;
 }
 
-/* Lista sin viñetas */
+
 .article-list {
   list-style:circle;
   padding: 0;
   margin: 0;
 }
 
-/* Estilo tipo tarjeta */
 .article-card {
   background: #f9f9f9;
   margin-bottom: 1rem;
@@ -85,7 +84,7 @@ h1 {
   font-size: 1.2rem;
 }
 
-/* Link de volver al inicio */
+
 .back-link {
   display: inline-block;
   margin-top: 2rem;
@@ -99,7 +98,7 @@ h1 {
   color: #0077aa;
 }
 .nav-link {
-  margin-left: 0; /* reset if needed */
+  margin-left: 0; 
   color: #333;
   font-weight: 600;
   text-decoration: none;

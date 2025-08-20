@@ -61,9 +61,7 @@ export default {
 </script>
 
 <style scoped>
-/* Aquí van tus estilos para index.vue (categories-nav, article-list, etc.) */
 
-/* Mantén los estilos generales */
 .category-image {
   width: 180px !important;
   height: 120px !important;
@@ -78,17 +76,17 @@ export default {
 .categories-nav {
   margin-bottom: 2rem;
   display: flex;
-  justify-content: center;    /* Centrar horizontalmente */
-  gap: 3rem;                  /* Espacio entre categorías */
-  flex-wrap: wrap;            /* Para que se adapten en pantallas pequeñas */
+  justify-content: center;    
+  gap: 3rem;                  
+  flex-wrap: wrap;            
 }
 
 .category-item {
   display: flex;
-  flex-direction: column;     /* Apilar link e imagen verticalmente */
-  align-items: center;        /* Centrar contenido */
+  flex-direction: column;     
+  align-items: center;        
   cursor: pointer;
-  width: 180px;               /* Ancho fijo para uniformidad */
+  width: 180px;               
 }
 
 .category-item a {
